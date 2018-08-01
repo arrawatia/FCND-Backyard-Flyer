@@ -13,3 +13,5 @@ Logs
 # python 
 __pycache__/
 *.pyc
+.idea/
+.vscode/
